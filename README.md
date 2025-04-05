@@ -1,8 +1,3 @@
-Baik, berikut adalah README.md yang telah saya siapkan untuk repositori Anda.  
-
-
----
-
 Termux Verus Miner
 
    
